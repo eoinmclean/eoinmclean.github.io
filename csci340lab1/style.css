@@ -61,6 +61,16 @@ body {
   padding: 12px;
 }
 
+.title img {
+  width: 100%;
+  border-radius: 12px;
+  margin-bottom: 8px;
+}
+
+.small {
+  font-size: 0.85rem;
+}
+
 .placeholder {
   height: 160px;
   border-radius: 12px;
